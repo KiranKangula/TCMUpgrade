@@ -23,7 +23,7 @@ public class Policylogin {
 		driver.findElement(By.id("Login:LoginScreen:LoginDV:password")).sendKeys("gw");
 		driver.findElement(By.xpath("//span[@class='button_link']")).click();
 		
-		
+	
 	}
 
 }
