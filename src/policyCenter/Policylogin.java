@@ -17,7 +17,7 @@ public class Policylogin {
 		
 		driver.switchTo().frame("top_frame");
 		
-		//xx to be done updated in the ussssdddd edited from the GIT
+		//xx to be done updated in the ussssdddd edited from the GIT, now this is from Eclipse
 		
 		driver.findElement(By.id("Login:LoginScreen:LoginDV:username")).sendKeys("kangulak");
 		driver.findElement(By.id("Login:LoginScreen:LoginDV:password")).sendKeys("gw");
