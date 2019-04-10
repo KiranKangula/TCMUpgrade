@@ -17,7 +17,7 @@ public class Policylogin {
 		
 		driver.switchTo().frame("top_frame");
 		
-		//xx to be done updated in the u
+		//xx to be done updated in the ussss
 		
 		driver.findElement(By.id("Login:LoginScreen:LoginDV:username")).sendKeys("kangulak");
 		driver.findElement(By.id("Login:LoginScreen:LoginDV:password")).sendKeys("gw");
